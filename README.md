@@ -11,11 +11,16 @@
 
 ## Index
 
-// TODO: add info 
+* [General architecture of platform](https://github.com/kh-elbrus/soc-platform#general-architecture)
+* [Workflow](https://github.com/kh-elbrus/soc-platform#workflow)
+* [Toolset](https://github.com/kh-elbrus/soc-platform#toolset)
+* [Installation guides](https://github.com/kh-elbrus/soc-platform#installation-guides)
+
+---
 
 ## General architecture
 
-// TODO: add diagram
+![General diagram](https://user-images.githubusercontent.com/32587640/168418076-07d4b9b3-5713-41d1-953f-ea2871ac6849.jpg)
 
 ## Workflow
 
@@ -27,13 +32,13 @@
 
 ---
 
-## Installation
+## Installation guides
 
-### Requirements
+* [Requirements]()
+* [Network rules]()
+* [Stage 1. Terraform | Build infrastructure]()
 
-### Network rules
 
-### Stage 1. Terraform - building infrastructure
 
 
 ---
