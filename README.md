@@ -27,7 +27,8 @@
 
 ## Workflow
 
-// TODO: add workflow diagram 
+![workflow](https://user-images.githubusercontent.com/32587640/168421792-7f67c3ce-95aa-4004-bde5-de6ceee549cc.jpg)
+
 
 ## Application from diagram  
 
