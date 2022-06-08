@@ -83,7 +83,7 @@
 |   3   |                     Playbooks                      |                  [checkout](https://www.incidentresponse.com/playbooks/)                  |
 |   4   |          aws-incident-response-playbooks           |        [checkout](https://github.com/aws-samples/aws-incident-response-playbooks)         |
 |   5   | Incident Response Playbooks Mapped to MITRE Attack |               [checkout](https://github.com/austinsonger/Incident-Playbook)               |
-|   6   | Ansible securoty automation                        | [checkout](https://github.com/ansible/workshops/tree/devel/exercises/ansible_security)    |
+|   6   | Ansible security automation                        | [checkout](https://github.com/ansible/workshops/tree/devel/exercises/ansible_security)    |
 
 ## API integrations for analysis 
 
